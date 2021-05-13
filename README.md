@@ -1,11 +1,12 @@
-# testbed_simple
+### testbed_simple (Origin : https://github.com/BranchMetrics/react-native-branch-deep-linking-attribution/tree/master/examples/testbed_simple) 
 
-Building
+#### Building
 To build and run:
 
-npm install
+`npm install`
 
 then
 
-cd ios
-pod install
+`cd ios`
+
+`pod install`
