@@ -1,4 +1,8 @@
 {
+    "debugMode": true,
+    "liveKey": "key_live_XXXX",
+    "testKey": "key_test_XXXX",
+    "useTestInstance": false,
     "delayInitToCheckForSearchAds": true,
-    "branchKey": "key_live_jnFOgSy0CLIEbPhiS980ccdoxznE8aou"
+    "enableFacebookLinkCheck": true
 }

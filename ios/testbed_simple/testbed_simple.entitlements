@@ -4,10 +4,8 @@
 <dict>
 	<key>com.apple.developer.associated-domains</key>
 	<array>
-		<string>applinks:zjef.app.link</string>
-		<string>applinks:zjef-alternate.app.link</string>
-		<string>applinks:zjef.test-app.link</string>
-		<string>applinks:zjef-alternate.test-app.link</string>
+		<string>applinks:solipaytech.app.link</string>
+		<string>applinks:solipaytech-alternate.app.link</string>
 	</array>
 </dict>
 </plist>
