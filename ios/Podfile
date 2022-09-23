@@ -89,7 +89,8 @@ target 'testbed_simple' do
 
 
 
-  pod 'react-native-branch', :path => '../node_modules/react-native-branch'
+
+
 
   post_install do |installer|
     ## Fix for XCode 12.5

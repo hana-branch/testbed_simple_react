@@ -5,11 +5,12 @@
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
-    "start": "react-native start"
+    "start": "react-native start",
+    "build:ios": "react-native bundle --entry-file='index.js' --bundle-output='./ios/main.jsbundle' --dev=false --platform='ios'"
   },
   "dependencies": {
     "react": "16.11.0",
-    "react-native": "0.62.2",
+    "react-native": "^0.62.3",
     "react-native-branch": "^5.2.0"
   },
   "devDependencies": {

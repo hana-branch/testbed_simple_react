@@ -26,10 +26,10 @@
               <category android:name="android.intent.category.DEFAULT"/>
               <category android:name="android.intent.category.BROWSABLE"/>
               <data android:scheme="rntestbed" android:host="open"/>
-              <data android:scheme="https" android:host="zjef.app.link"/>
-              <data android:scheme="https" android:host="zjef-alternate.app.link"/>
-              <data android:scheme="https" android:host="zjef.test-app.link"/>
-              <data android:scheme="https" android:host="zjef-alternate.test-app.link"/>
+              <data android:scheme="https" android:host="hanadev1.app.link"/>
+              <data android:scheme="https" android:host="hanadev1-alternate.app.link"/>
+              <data android:scheme="https" android:host="hanadev1.test-app.link"/>
+              <data android:scheme="https" android:host="hanadev1-alternate.test-app.link"/>
           </intent-filter>
       </activity>
       <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
